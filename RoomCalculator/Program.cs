@@ -17,10 +17,11 @@
         double volume = l * w * h;
 
 
-        Console.WriteLine($"the area of your Classroom is: {area}");
-        Console.WriteLine($"the perimeter of your Classroom is: {perimeter}");
-        Console.WriteLine($"The surface area of your Classroom is: {surfaceArea}");
-        Console.WriteLine($"The volume of your Classroom is: {volume}");
+        Console.WriteLine($"the area of your Classroom is: {area} feet");
+        Console.WriteLine($"the perimeter of your Classroom is: {perimeter} feet");
+        Console.WriteLine($"The surface area of your Classroom is: {surfaceArea} feet");
+        Console.WriteLine($"The volume of your Classroom is: {volume} feet");
+        Console.WriteLine($"The volume of your Classroom is: {volume} feet");
         if (area <= 250)
         {
             Console.WriteLine("This is a small room");
